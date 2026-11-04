@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>遊戲程式與 2D 動畫作品集</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #f5f3ee;
+      color: #303a35;
+      font-family: "Microsoft JhengHei", sans-serif;
+      line-height: 1.7;
+    }
+    main { width: min(900px, 92%); margin: 0 auto; padding: 64px 0; }
+    header { margin-bottom: 36px; }
+    .label { color: #72877b; letter-spacing: .16em; font-size: 13px; }
+    h1 { margin: 8px 0; font-size: clamp(30px, 6vw, 48px); }
+    .intro { color: #647068; }
+    section {
+      margin: 22px 0;
+      padding: 26px;
+      background: #fff;
+      border: 1px solid #e7e4dc;
+      border-radius: 18px;
+      box-shadow: 0 8px 28px #3344330c;
+    }
+    h2 { margin-top: 0; }
+    .tags { color: #72877b; font-size: 14px; }
+    video, img { display: block; width: 100%; height: auto; border-radius: 12px; }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="label">PORTFOLIO</p>
+      <h1>遊戲程式與 2D 動畫</h1>
+      <p class="intro">Unity・C#・Spine｜作品展示</p>
+    </header>
+
+    <section>
+      <h2>Dungeon｜Unity 遊戲</h2>
+      <p>Unity RPG 開發中，負責遊戲架構、UI、地圖、背包與 Spine 動畫整合。</p>
+      <p class="tags">Unity・C#・RPG</p>
+      <video controls playsinline preload="metadata">
+        <source src="Dungeon-preview.mp4" type="video/mp4">
+        你的瀏覽器無法播放這段影片。
+      </video>
+    </section>
+
+    <section>
+      <h2>Spine 動畫</h2>
+      <p>展示 2D 骨架動畫與角色動作成果。</p>
+      <p class="tags">Spine・2D Animation</p>
+      <img src="spine-compare.gif" alt="Spine 動畫展示" loading="lazy">
+    </section>
+  </main>
+</body>
+</html>
