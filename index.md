@@ -24,21 +24,29 @@
 
 獨立開發中的 Unity RPG，持續製作遊戲內容與玩法。
 
-#### ▶ 新手教學 {#dungeon-tutorial}
+#### 新手教學 {#dungeon-tutorial}
 
 <iframe src="https://www.youtube-nocookie.com/embed/PtXqxKuwxhU" title="Dungeon 新手教學" style="width: 100%; aspect-ratio: 16 / 9; border: 0;" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### ▶ 多樣地圖 {#dungeon-maps}
+#### 多樣地圖 {#dungeon-maps}
 
 <iframe src="https://www.youtube-nocookie.com/embed/MsYxmrSHlo4" title="Dungeon 多樣地圖" style="width: 100%; aspect-ratio: 16 / 9; border: 0;" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### ▶ 烹飪畫面 {#dungeon-cooking}
+#### 烹飪畫面 {#dungeon-cooking}
 
 <iframe src="https://www.youtube-nocookie.com/embed/qsA9nwJlou4" title="Dungeon 烹飪畫面" style="width: 100%; aspect-ratio: 16 / 9; border: 0;" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Spine 動畫作品 ( 左:原動畫 | 右:換原動畫 ) {#spine}
 
 #### Slay The Spire {#spine-slay-the-spire}
+
+![Ironclad：待機](spine/Ironclad_Idle.gif){: loading="lazy"}
+
+![Silent：待機](spine/theSilent_Idle.gif){: loading="lazy"}
+
+![Defect：待機](spine/defect_Idle.gif){: loading="lazy"}
+
+![Watcher：待機](spine/watcher_Idle.gif){: loading="lazy"}
 
 #### Ender Lilies {#spine-ender-lilies}
 
@@ -66,6 +74,6 @@
 
 #### Q版動作 {#spine-chibi}
 
-![jingjishen：待機](spine/jingjishen_idle.gif){: loading="lazy"}
-
 ![白面鴞：互動](spine/白面鴞.gif){: loading="lazy"}
+
+![jingjishen：待機](spine/jingjishen_idle.gif){: loading="lazy"}
