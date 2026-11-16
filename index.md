@@ -20,6 +20,9 @@
 
   - [group_5｜日本旅遊票券網站](#group-5)
   - [大學專題｜互動陪伴機器人](#companion-robot)
+  - [COUNTING DOWN｜Unity 小遊戲](#counting-down)
+  - [酷酷的時鐘](#clock)
+  - [Youth Painting｜校園百合視覺小說遊戲](#youth-painting)
 
 ## 作品 {#works}
 
@@ -135,3 +138,21 @@
 | ![避障資料採集畫面：可通行](portfolio-assets/robot/obstacle-clear.jpg){: loading="lazy" width="260"} | ![避障資料採集畫面：有障礙](portfolio-assets/robot/obstacle-blocked.jpg){: loading="lazy" width="260"} |
 
 專題圖例取自團隊的彰師大畢業專題報告。
+
+### COUNTING DOWN｜Unity 小遊戲 {#counting-down}
+
+我的第一個 Unity／C# 遊戲。在像素風森林關卡跳躍、蒐集旗幟並遭遇敵人。
+
+[查看 GitHub 專案](https://github.com/gurus4269/COUNTING-DOWN-unity-game)
+
+### 酷酷的時鐘 {#clock}
+
+工作用時鐘。用 CSS 呈現深綠與金色的幾何介面，同時顯示日期與指針時鐘。
+
+[查看 GitHub 專案](https://github.com/gurus4269/Clock)
+
+### Youth Painting｜校園百合視覺小說遊戲 {#youth-painting}
+
+以 C# 製作的文字冒險重製版，透過章節、角色對話與劇情插畫呈現校園百合故事。
+
+[查看 GitHub 專案](https://github.com/gurus4269/YouthPainting)
