@@ -12,7 +12,7 @@
     - [新手教學](#dungeon-tutorial)
     - [多樣地圖](#dungeon-maps)
     - [烹飪畫面](#dungeon-cooking)
-  - [Spine 動畫作品](#spine)
+  - [Spine AI還原動畫](#spine)
     - [Slay The Spire](#spine-slay-the-spire)
     - [Ender Lilies](#spine-ender-lilies)
     - [二遊立繪](#spine-gacha)
@@ -20,7 +20,7 @@
   - [日本旅遊票券網站｜前端、後端、資料庫](#group-5)
   - [大學專題｜互動陪伴機器人｜AIOT、Jetson Nano](#companion-robot)
   - [Youth Painting｜校園百合視覺小說遊戲｜Unity](#youth-painting)
-  - [COUNTING DOWN｜Unity 小遊戲](#counting-down)
+  - [COUNTING DOWN｜Unity 2D橫向卷軸遊戲](#counting-down)
   - [酷酷的時鐘｜CSS、JavaScript](#clock)
 ## 作品 {#works}
 
