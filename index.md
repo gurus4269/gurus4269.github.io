@@ -90,30 +90,37 @@
 
 #### 首頁與熱門推薦
 
-![原網站首頁橫幅](portfolio-assets/group-5/hero.jpg){: loading="lazy" width="100%"}
+![group_5 網站首頁與搜尋列](portfolio-assets/group-5/homepage.png){: loading="lazy" width="100%"}
 
-透過首頁搜尋旅遊商品，或從熱門推薦進入景點詳情。
+**首頁**｜依地區、日期與人數搜尋旅遊商品。
 
-| 東京迪士尼樂園 | 晴空塔 |
-| --- | --- |
-| ![東京迪士尼樂園景點圖](portfolio-assets/group-5/disneyland.jpg){: loading="lazy" width="100%"} | ![晴空塔景點圖](portfolio-assets/group-5/skytree.jpg){: loading="lazy" width="100%"} |
+![熱門推薦商品列表](portfolio-assets/group-5/popular-recommendations.png){: loading="lazy" width="100%"}
 
-| 淺草 | 東京鐵塔 |
-| --- | --- |
-| ![淺草景點圖](portfolio-assets/group-5/asakusa.jpg){: loading="lazy" width="100%"} | ![東京鐵塔景點圖](portfolio-assets/group-5/tokyo-tower.jpg){: loading="lazy" width="100%"} |
+**熱門推薦**｜以商品卡片呈現景點、票價與評分。
 
 #### 票券選購與後端邏輯
 
-![票券選購流程示意：從景點詳情、日期與票數、購物車到已購買行程](portfolio-assets/group-5/ticket-flow.png){: loading="lazy" width="100%"}
+![橫濱一日遊商品頁與票數選擇](portfolio-assets/group-5/ticket-selection.png){: loading="lazy" width="100%"}
 
-- **後端計價**｜查詢成人與兒童票價，依張數計算總額，並保存單價與張數。
-- **購物車防重複**｜以使用者、商品、月份與日期組成複合主鍵。
+**選擇票券**｜選擇日期與成人、兒童票數，後端依商品票價計算總額。
+
+![購物車中的橫濱一日遊票券](portfolio-assets/group-5/cart.png){: loading="lazy" width="100%"}
+
+**加入購物車**｜保存票價、數量與總額，並以使用者、商品及日期的複合主鍵防止重複新增。
+
+![已購買行程與退票按鈕](portfolio-assets/group-5/itinerary.png){: loading="lazy" width="100%"}
+
+**確認購買**｜更新購買狀態，讓票券出現在已購買行程。
 
 #### 後台管理
 
-- **商品列表**｜查看商品編號、上傳者與票價，並可修改或刪除商品。
-- **修改商品**｜對照原有資料，更新商品名稱與成人、兒童票價。
+![後台商品列表與修改、刪除按鈕](portfolio-assets/group-5/admin-products.png){: loading="lazy" width="100%"}
 
+**商品列表**｜檢視商品編號、上傳者與票價，並可修改或刪除商品。
+
+![修改商品表單與原有商品資料](portfolio-assets/group-5/admin-edit-product.png){: loading="lazy" width="100%"}
+
+**修改商品**｜對照原有資料，更新商品名稱與成人、兒童票價。
 
 ### 大學專題｜互動陪伴機器人 {#companion-robot}
 
