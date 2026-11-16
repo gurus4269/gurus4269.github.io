@@ -17,13 +17,11 @@
     - [Ender Lilies](#spine-ender-lilies)
     - [二遊立繪](#spine-gacha)
     - [Q版動作](#spine-chibi)
-
-  - [group_5｜日本旅遊票券網站](#group-5)
-  - [大學專題｜互動陪伴機器人](#companion-robot)
+  - [日本旅遊票券網站｜前端、後端、資料庫](#group-5)
+  - [大學專題｜互動陪伴機器人｜AIOT、Jetson Nano](#companion-robot)
+  - [Youth Painting｜校園百合視覺小說遊戲｜Unity](#youth-painting)
   - [COUNTING DOWN｜Unity 小遊戲](#counting-down)
-  - [酷酷的時鐘](#clock)
-  - [Youth Painting｜校園百合視覺小說遊戲](#youth-painting)
-
+  - [酷酷的時鐘｜CSS、JavaScript](#clock)
 ## 作品 {#works}
 
 ### Dungeon｜Unity RPG {#dungeon}
@@ -144,7 +142,18 @@
 | --- | --- |
 | ![避障資料採集畫面：可通行](portfolio-assets/robot/obstacle-clear.jpg){: loading="lazy" width="260"} | ![避障資料採集畫面：有障礙](portfolio-assets/robot/obstacle-blocked.jpg){: loading="lazy" width="260"} |
 
-專題圖例取自團隊的彰師大畢業專題報告。
+
+### Youth Painting｜校園百合視覺小說遊戲 {#youth-painting}
+
+以 C# 製作的文字冒險重製版，透過章節、角色對話與劇情插畫呈現校園百合故事。
+
+![Youth Painting 主選單](portfolio-assets/youth-painting/title.png){: loading="lazy" width="100%"}
+
+![Youth Painting 教室對話畫面](portfolio-assets/youth-painting/classroom-dialogue.png){: loading="lazy" width="100%"}
+
+![Youth Painting 劇情插畫](portfolio-assets/youth-painting/story-art.jpg){: loading="lazy" width="100%"}
+
+[查看 GitHub 專案](https://github.com/gurus4269/YouthPainting)
 
 ### COUNTING DOWN｜Unity 小遊戲 {#counting-down}
 
@@ -165,15 +174,3 @@
 ![酷酷的時鐘：日期與幾何指針介面](portfolio-assets/clock/clock.png){: loading="lazy" width="100%"}
 
 [查看 GitHub 專案](https://github.com/gurus4269/Clock)
-
-### Youth Painting｜校園百合視覺小說遊戲 {#youth-painting}
-
-以 C# 製作的文字冒險重製版，透過章節、角色對話與劇情插畫呈現校園百合故事。
-
-![Youth Painting 主選單](portfolio-assets/youth-painting/title.png){: loading="lazy" width="100%"}
-
-![Youth Painting 教室對話畫面](portfolio-assets/youth-painting/classroom-dialogue.png){: loading="lazy" width="100%"}
-
-![Youth Painting 劇情插畫](portfolio-assets/youth-painting/story-art.jpg){: loading="lazy" width="100%"}
-
-[查看 GitHub 專案](https://github.com/gurus4269/YouthPainting)
