@@ -141,18 +141,32 @@
 
 ### COUNTING DOWN｜Unity 小遊戲 {#counting-down}
 
-我的第一個 Unity／C# 遊戲。在像素風森林關卡跳躍、蒐集旗幟並遭遇敵人。
+我的第一個 Unity／C# 遊戲。在像素風森林中躲避敵人、限時蒐集旗幟，集齊後開啟傳送門。
+
+![COUNTING DOWN 遊戲主選單](portfolio-assets/counting-down/title.png){: loading="lazy" width="100%"}
+
+![COUNTING DOWN 森林關卡與旗幟](portfolio-assets/counting-down/gameplay-1.png){: loading="lazy" width="100%"}
+
+![COUNTING DOWN 關卡畫面](portfolio-assets/counting-down/gameplay-2.png){: loading="lazy" width="100%"}
 
 [查看 GitHub 專案](https://github.com/gurus4269/COUNTING-DOWN-unity-game)
 
 ### 酷酷的時鐘 {#clock}
 
-工作用時鐘。用 CSS 呈現深綠與金色的幾何介面，同時顯示日期與指針時鐘。
+工作用時鐘。用 CSS 設計深綠與金色的幾何介面，並以 JavaScript 即時更新日期與指針。
+
+![酷酷的時鐘：日期與幾何指針介面](portfolio-assets/clock/clock.png){: loading="lazy" width="100%"}
 
 [查看 GitHub 專案](https://github.com/gurus4269/Clock)
 
 ### Youth Painting｜校園百合視覺小說遊戲 {#youth-painting}
 
 以 C# 製作的文字冒險重製版，透過章節、角色對話與劇情插畫呈現校園百合故事。
+
+![Youth Painting 主選單](portfolio-assets/youth-painting/title.png){: loading="lazy" width="100%"}
+
+![Youth Painting 教室對話畫面](portfolio-assets/youth-painting/classroom-dialogue.png){: loading="lazy" width="100%"}
+
+![Youth Painting 劇情插畫](portfolio-assets/youth-painting/story-art.jpg){: loading="lazy" width="100%"}
 
 [查看 GitHub 專案](https://github.com/gurus4269/YouthPainting)
